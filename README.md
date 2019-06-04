@@ -3,5 +3,4 @@
 <h2>About</h2>
 SiNex - server software developed for coders, SiNex is distributed only with open source code and GPL license! SiNex is a modular core and does not limit the old developers in its addition and improvement!
 <h2>About updates</h2>
-<strong><underline>2019 4 Jun<strong><underline><br>
-<strong>First src version!<strong>
+<strong>[Jun 4, 2019] First src version!<strong>

@@ -1,3 +1,4 @@
+![SiNex_Logo](https://m.vk.com/album341291753_266041416?rev=1&m=103&z=photo341291753_456239916%2Falbum341291753_266041416%2Frev)
 # Sinex
 <strong>SiNex</strong> - the core for MCPE servers based on <strong>PocketMine-MP</strong>
 # About

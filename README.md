@@ -18,5 +18,5 @@ SiNex - server software developed for coders, SiNex is distributed only with ope
 	MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
 	GNU Lesser General Public License for more details.
 
-	You should have received a copy of the GNU Lesser General Public License
-	along with this program.  If not, see [www.gnu.org/licenses](http://www.gnu.org/licenses/)
+You should have received a copy of the GNU Lesser General Public License
+along with this program.  If not, see [www.gnu.org/licenses](http://www.gnu.org/licenses/)
